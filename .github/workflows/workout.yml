@@ -1,5 +1,5 @@
 yaml
-name: workout
+name: Workout Bot
 on:
   schedule:
     - cron: '0 8 * * 2,4,6'
